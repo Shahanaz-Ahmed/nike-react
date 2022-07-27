@@ -1,0 +1,32 @@
+.head-color{
+    background-color: #FFF9F4;
+}
+.nav-logo{
+    width: 291px;
+    height: 39px;
+}
+.head-text{
+    color: #FA804C;
+}
+.nike-button{
+    background-color: #3D4FF3;
+}
+.nike-text{
+    color: #363958;
+}
+/* main section */
+/* shoes */
+.bg-shoe{
+    background-color: #F1F1F1;
+}
+.shoe-height{
+    height: 327px;
+}
+.nike-price{
+    color: #FA804C;
+}
+/* @media only screen and (max-width:576px){
+    .last-img{
+          width:100px;
+    }
+} */
